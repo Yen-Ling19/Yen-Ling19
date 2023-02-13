@@ -1,16 +1,16 @@
-## WELECOME, I'M YEN-LING.😉
+## WELECOME, I'M YEN-LING. 😉
 
 
-### About Me👩🏻‍💼
+### About Me 👩🏻‍💼
 
 💪🏻 I'm learning project management. <br/>
 💪🏻 I'm learning how to increase the value of a product through statistics. <br/>
 👩🏻‍💻 I'm working for two research assistants and one teaching assistant. <br/>
-🌎 I had been an exchange student in the Illinois, USA. <br/>
-✨ I'm interesting in exploring new things.
+🇺🇸 I had been an exchange student in the Illinois, USA. <br/>
+🌟 I'm interesting in exploring new things.
 
 
-### Education📖
+### Education 📖
 
 #### Master of Information Management, National Central University
 1. Rank: *in progress*
@@ -21,7 +21,7 @@
 2. Time: 2019.9 - 2023.6
 
 
-### Connection☎️
+### Connection ☎️
 📬 Email: [peggyho0719@gmail.com](peggyho0719@gmail.com) <br/>
 🏡 Website: [https://yen-ling19.github.io/personal_page/](https://yen-ling19.github.io/personal_page/) <br/>
 🎨️ Bolgs: [https://medium.com/@peggyho0719/about](https://medium.com/@peggyho0719/about)
