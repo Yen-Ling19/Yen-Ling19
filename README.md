@@ -22,7 +22,7 @@
 
 
 ### Connection ☎️
-📬 Email: [peggyho0719@gmail.com](peggyho0719@gmail.com) <br/>
+📬 Email: [peggyho0719@gmail.com](mailto:peggyho0719@gmail.com) <br/>
 🏡 Website: [https://yen-ling19.github.io/personal_page/](https://yen-ling19.github.io/personal_page/) <br/>
 🎨️ Bolgs: [https://medium.com/@peggyho0719/about](https://medium.com/@peggyho0719/about)
 
