@@ -13,7 +13,7 @@
 ### Education 📖
 
 #### Master of Information Management, National Central University
-1. Rank: *in progress*
+1. Rank: *N/A*
 2. Time: 2023.9 - 2025.6
 
 #### Bachelor of Computer Science, Chang Gung University
