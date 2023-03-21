@@ -27,5 +27,5 @@
 🎨️ Bolgs: [https://medium.com/@peggyho0719/about](https://medium.com/@peggyho0719/about)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yen-Ling19&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yen-Ling19&layout=compact&theme=tokyonight)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yen-Ling19&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yen-Ling19&layout=compact&theme=tokyonight) -->
