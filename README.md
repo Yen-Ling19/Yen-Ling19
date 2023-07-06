@@ -4,8 +4,6 @@
 ### About Me 👩🏻‍💼
 
 💪🏻 I'm learning project management. <br/>
-💪🏻 I'm learning how to increase the value of a product through statistics. <br/>
-👩🏻‍💻 I'm working for two research assistants and one teaching assistant. <br/>
 🇺🇸 I had been an exchange student in the Illinois, USA. <br/>
 🌟 I'm interesting in exploring new things.
 
